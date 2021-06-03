@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Govvreis conspiracie a discourse of the vnnaturall and vyle conspiracie attempted against the kings majesties person at Sanct-Iohnstoun vpon Twysday the 5. of August. 1600..</title>
+            <author>Gowrie, John Ruthven, Earl of 1578?-1600.</author>
+         </titleStmt>
+         <extent>Approx. 60KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00635</idno><idno type="EEBO-CITATION">56572918</idno>
+  <idno type="VID">181018</idno>
+  <idno type="EEBO-PROQUEST">2240929731</idno>
+  <idno type="STC">STC 21465.5</idno>
+  <idno type="STC">ESTC S94979</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B00635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181018)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2155:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Govvreis conspiracie a discourse of the vnnaturall and vyle conspiracie attempted against the kings majesties person at Sanct-Iohnstoun vpon Twysday the 5. of August. 1600..</title>
+                  <author>Gowrie, John Ruthven, Earl of 1578?-1600.</author>
+               </titleStmt>
+               <extent>[58] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Charteris.,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1600..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁸ D⁵ (last 3 leaves blank?).</note>
+                  <note>"Cum Priuilegio Regio."</note>
+                  <note>Imperfect: tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Gowrie Conspiracy, 1600 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  James VI, 1567-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181018:1"/>
+            <pb facs="tcp:181018:1"/>
+            <pb facs="tcp:181018:2"/>
+            <pb facs="tcp:181018:2"/>
+            <pb facs="tcp:181018:3"/>
+            <pb facs="tcp:181018:3"/>
+            <pb facs="tcp:181018:4"/>
+            <pb facs="tcp:181018:4"/>
+            <pb facs="tcp:181018:5"/>
+            <pb facs="tcp:181018:5"/>
+            <p>Govvreis Conspiracie A DISCOVRSE OF THE VNNA<g ref="char:EOLunhyphen"/>TVRALL AND VYLE <hi>CONSPI<g ref="char:EOLhyphen"/>RACIE ATTEMPTED</hi> A<g ref="char:EOLhyphen"/>GAINST THE KINGS MA<g ref="char:EOLhyphen"/>IESTIES PERSON <hi>AT</hi> SANCT-IOHNSTOVN vpon Twysday the 5. of August. 1600.</p>
+            <p>
+               <hi>EDINBVRGH</hi> Printed by Robert Charteris. 1600.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>CVM PRIVILEGIO REGIO.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:181018:6"/>
+            <pb facs="tcp:181018:6"/>
+            <head>
+               <hi>A DISCOVRE</hi> OF THE VNNATVRALL AND vyle conspiracie attempted against his <hi>Maiesties person at Sanct Iohnstoun vpon the 5. day of August being Tuysday,</hi> 1600.</head>
+            <p>HIS Maiestie having his residence at Falkland, and being daily at the Buck-hunting, as his vse is in that season, vpon the fifth day of August, being Twysday, hee raid out to the Park, betwixt six and seuen hours in the morning, the weather being wonder<g ref="char:EOLhyphen"/>full pleasant and seasonable. But before his Maiestie could leap on horse-back, his Hie<g ref="char:EOLhyphen"/>nes being now come downe by the Equerie: All the huntis-men with the houndes atten<g ref="char:EOLhyphen"/>ding his Maiesty on the greene, &amp; the Court making to their horses, as his hienes self was: Maister Alexander Ruthven, second brother to the late Earle of Gowrie being then ligh<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:181018:7"/> in the toun of Falkland, haisted him fast downe to ouer take his Maiestie before his on-leaping, as he did. Where meeting his Hienes, after a verie low courtesie, bowing his head vnder his Maiesties knee, (althogh he was neuer wont to make so low courtesy) drawing his Maiestie a-part, he beginnes to discourse vnto him, but with a verie deiected countenance, his eies euer fixed vppon the earth, how that it chanced him the euening befor to be walking abroad about the fields taking the air, solitarie allone, without the toū of Sanct Iohnstoū, wher his presēt dwel<g ref="char:EOLhyphen"/>ling was with the Lord his brother, &amp; there by accident affirmed to haue recountred a base like fellow, vnknowne to him, with a cloke cast about his mouth: whome at as he enquyred his name, and what his erand was to be passing in so solitary a part being from all waies: The fellow become at the suddain so amased, and his tongue so faultered in his mouth that vppon his suspitious bohauiour he begouth more narrowly to look vnto him and examine him: &amp; perceauing that there
+<pb facs="tcp:181018:7"/> appeared something to bee hid vnder h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cloke, he did cast by the lappes of it, and so findes a great wyde pot to be vnder his arme all full of coyned gold in great peeces. Assu<g ref="char:EOLhyphen"/>ring his Maiestie that it was in verie great quantitie: vpon the sight whereof as hee af<g ref="char:EOLhyphen"/>firmed, he took back the fellow with his bur<g ref="char:EOLhyphen"/>then to the toun, where he priuatly without the knowledge of any liuing took the fellow and band him in a privie derned house: and after lokking many durres vppon him, left him there and his pot with him and had hai<g ref="char:EOLhyphen"/>sted him self out of Sanct-Iohnston that day <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y four houres in the morning, to make his Maiestie aduertised therof, according to his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound dutie. Earnestlie repuesting his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>estie with all diligence and secrecie that his Maiestie might take order therewith, before anie know thereof. Swearing &amp; protesting <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he had yet concealed it from all liuing: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea, from the Earle his owne brother. His Maiesties first answere was (after thanking <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im for his good-will) that it could not be<g ref="char:EOLhyphen"/>come his Maiestie to meddle anie wayes in
+<pb facs="tcp:181018:8"/> that matter, since no mans treasure that is free and lawfull subiect can by the Lawe a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pertaine vnto the king, except it bee fou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hid vnder the earth, as this was not: Whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto he answered, that the fellow confess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vnto him, that hee was going to haue hid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vnder the ground, but could not take leasu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at that time to enquyre any further of hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Whereunto his Maiestie replyed that the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was great difference betwixt a deed, and t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> intention of a deed: his intention to haue h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, not beeing alyke as if it had beene fou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alreadie hid. Maister Alxanders answer w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that hee thought his Maiestie ouer scrup<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lous in such a matter tēding so greatly to h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maiesties profite: and that if his Maiesty d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ferred to meddle with it, that it might b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the Lord his brother and vther gre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men might meddle with it, and make his M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>iestie the more a-doe. Wherupon the ki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beginning to suspect that it had beene so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forraine gold brought home by some Ies<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tes or practising Papists (therewith to stur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vp some newe sedition as they haue oft<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tymes
+<pb facs="tcp:181018:8"/> done before) enquyred of the said M. Alexander, what kinde of coine it was, and what a fellowe hee was that carried it. His answere was, that so far as hee could take lei<g ref="char:EOLhyphen"/>sure to see of them, that they seemed to bee forraine and vncouth strokes of coine, &amp; al<g ref="char:EOLhyphen"/>thogh that the fellow both by his language and fashions seemed to bee a Scots fellow, yet hee could neuer remember that hee had seene him before. These speaches increased his Maiesties suspition that it was forraine coyne brought in by some practising Pa<g ref="char:EOLhyphen"/>pists, and to bee distributed into the coun<g ref="char:EOLhyphen"/>trie, as is before said. And that the fellowe that caried it, was some Scots Priest, or Semi<g ref="char:EOLunhyphen"/>narie so disaguysed, for the more sure trans<g ref="char:EOLhyphen"/>porting thereof. Whereupon his Maiestie resolued, that he would send backe with the said Maister Alexander a seruand of his own with an warrand to the Prouost and Baillies of Sanct-Iohnstoun, to receaue both the fel<g ref="char:EOLhyphen"/>low and the money off Maister Alexanders <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and, and after they had examined the fel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow, to re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aine him and the treasure, till his
+<pb facs="tcp:181018:9"/> Maiesties further pleasure were knowne Whereat the said Maistet Alexander stur<g ref="char:EOLunhyphen"/>red meruelouslie: affirming and protestin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that if either the Lord his brother, or th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Baillies of the toun were put on the counsa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereof: his Maiestie would get a verie ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> compt made to him of that treasure, swea<g ref="char:EOLunhyphen"/>ring that the great loue &amp; affection he bar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vnto his Maiestie had made him to preferr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Maiestie in this cace, both to himself, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his brother. For the which seruice he humb<g ref="char:EOLunhyphen"/>lie craued that recompence that his Maiest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would take the paines once to ryde thither that he might bee the first seear thereof him self: which beeing done, he woulde remit to his Maiesties owne honorable discretion how far it would please his Maiestie to con<g ref="char:EOLunhyphen"/>sider vpon him for that seruice. His Hienes beeing striken in great admiration both of the vncouthnes of the tale, &amp; of the strange and stupide behauiour of the reporter: and the Court being alreadie horsed, wondring at his Maiesties so long stay with that gen<g ref="char:EOLhyphen"/>tleman, the morning being so fair, the game
+<pb facs="tcp:181018:9"/> alreadie found, and the Huntismen so lo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> staying on the fields on his Maiestie: he was forced to break off, onlie with these wordes, that hee coulde not nowe staye anie longer from his sport, but that hee would considder of the matter, &amp; at the end of his chase giue him a resolute answere, what order he would take therein. Wherupon his Maiesty parted in haste from him towardes the place where the game was. Maister Alexander parting from his Maiestie verie miscontent, that in<g ref="char:EOLhyphen"/>delaiedlie he raid not to Sanct-Iohnstoun as he desired him: Protesting that his Maiestie would not finde euerie day such a choise of hunting, as he had offered vnto him and that hee feared that his Maiesties long delay and slownes of resolution, would breed leasure to the fellow who was lying bound, to cry or make such din, as would disappoint the secrecy of that whole purpose, &amp; make both the fellow &amp; the treasure to be medled with, before any word could come from his Maie<g ref="char:EOLhyphen"/>stie: as also that his brother would misse him in respect of his absēce that morning, which
+<pb facs="tcp:181018:10"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Maiestie had pleased to haste, he might haue preuented: arryuing there in the tyme of his brothers and the whole townes being at the sermon: whereby his Maiestie might haue taken such secrete order with that mat<g ref="char:EOLhyphen"/>ter, as hee pleased before their outcomming from the Church. But his Maiestie without anie further answering of him, leaping on horse-back, and ryding to the Dogs, where they were beginning to hunt. The said Mai<g ref="char:EOLhyphen"/>ster Alexander stayed still in that place wher hee left his Maiestie, and hauing two men with him appointed by the late Earle his bro<g ref="char:EOLunhyphen"/>ther, to carrie back vnto him the certaine newes in al haist of his Maiesties comming, as heerafter more particularlie shall in this same discourse be declared. Hee directed the one of them called Andrew Henderson, Chalmerlane to the said Earle, to ryde in all haste to the Earle, commanding him as hee loued his brothers honour, that hee shoulde not spare for spilling of his horse, and tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he should aduertise the Earle that he hoped to moue his Maiestie to come thither, and that
+<pb facs="tcp:181018:10"/> he should not yet looke for him the spac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three houres thereafter, because of his Ma<g ref="char:EOLhyphen"/>iesties hunting: adding these words: Pray my Lord my brother to prepare the denner for vs. But his Maiestie was no sooner ridden vp to a little hil aboue the little woode, wher the Dogs were laid on in hunting: but that notwithstanding the pleasant beginning of the chase, hee could not stay from musing &amp; wondering vpon the newes. Whereupon, without making anie bodie acquainted with this purpose, finding Iohn Nesmith Chirur<g ref="char:EOLhyphen"/>gian by chance ryding beside him, his Maie<g ref="char:EOLhyphen"/>stie directed him back to bring Maister Ale<g ref="char:EOLhyphen"/>xander with him: who being brought vnto his Maiestie, and hauing newlie directed as said is, one of his men that was with him back to my Lord his brother, his Maiestie vn<g ref="char:EOLunhyphen"/>knowing or suspecting that any man liuing had come with him, then tolde him that he had bene aduysing with himself, &amp; in respect of his last wordes so earnest with him, he re<g ref="char:EOLhyphen"/>solued to ryde thither for that erand in his own person how soone the chase was ended,
+<pb facs="tcp:181018:11"/> which was alreadie begun: like as his Maie<g ref="char:EOLunhyphen"/>sty vpon the verie ending of these words, did ryde away in the chase, the said Maister Ale<g ref="char:EOLhyphen"/>xander euer following him at his back: no o<g ref="char:EOLhyphen"/>ther liuing being with his Hienesse, but hee, and Iohn Hammilton of Grange, one of his Maiestirs Maister-stablers, the reste of the Court being all before in the chase, his Ma<g ref="char:EOLhyphen"/>iestie onlie being casten back vpon the stay<g ref="char:EOLhyphen"/>ing to speak with Maister Alexander, as is be foresaid. The chase lasted from seuen hours in the morning vntill alleuen and more, be<g ref="char:EOLhyphen"/>ing one of the greatest and sorest chases that euer his Maiestie was at: all which tyme the said Maister Alexāder was for the most part euer at his Maiesties back as said is. But there neuer was any stop in the chase, or so small a delay, that the said Maister Alexander o<g ref="char:EOLunhyphen"/>mitted to round to his Maiestie, earnestly re<g ref="char:EOLhyphen"/>questing him to haist the end of the hunting that he might ryde the sooner to Sanct-Iohn stoun. So as at the death of the Buck, his Maiestie not staying vppon the curie of the Deir, as his vse is, scarcelie took time to a▪
+<pb facs="tcp:181018:11"/> light, awaiting vpon the comming of a fresh horse to ryde on, the greatnesse of the chase hauing weried his horse. But the said Maister Alexander would not suffer the King to stay in the Parke where the Buck was killed, whil his fresh hors which was alredy sent for, was brought out of the Equery to him, although it was not two flight shot of bounds betwixt the part where the buck was killed, and his Maiesties Equerie: but with verie importu<g ref="char:EOLhyphen"/>nitie forced his Maiestie to leap on againe v<g ref="char:EOLhyphen"/>pon that same horse, that hee had hunted all the day vpon, his fresh horse beeing made to gallop a myle of the way to ouertake him: his Maiestie not staying so much as vppon his sword, nor whil the Duke and the Erle of Mar, with diuerse gentlemen in his compa<g ref="char:EOLhyphen"/>nie had changed their horse. Onlie saying vnto them that hee was to ryde to Sanct-Iohnstou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to speak with the Earle of Gowry, and that he would bee presently back againe before euen. Whereupon some of the court galloped backe to Falkland als fast as they coulde to change their horse, and could not
+<pb facs="tcp:181018:12"/> ouertake his Maiestie whill he come withi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> four myle of Sanct-Iohnstoun. Others rai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fordward with their horses weried as the were, wherof some were compelled to aligh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the way, &amp; if they had not both refreshe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their horses, bled them, and giuen them so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grasse by the way, they had not carried then to Sanct-Iohnstoun. The cause of his Maie<g ref="char:EOLunhyphen"/>sties seruands following so fast, vndesired b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, being onlie grounded vpon a suspitio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they had conceaued that his Maiesties in tention of ryding, was for the apprehension of the Maister of Oliphant, one who had lat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lie done a vyle and proud oppression in An<g ref="char:EOLhyphen"/>gus. For repairing of the which, they thogh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that his Maiestie had some purpose for his apprehension. But the said Maister Alexan<g ref="char:EOLhyphen"/>der seing the Duke and the Erle of Mar with diuers other of the court getting fresh horse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for following of his Maiestie, earnestlie desi<g ref="char:EOLhyphen"/>red him that he would publish to his whole traine, that since he was to returne the same euening, as is before said, they needed not to follow him, especiallie that he thought i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:181018:12"/> meetest that his Maiestie shoulde stay the Duke and the Earle of Mar to follow him, &amp; that he should onlie take three or four of his owne meane seruands with him, affirming that if anie noble man followed him, hee could not answere for it, but that they would marre that whole purpose. Whereupon his Maiestie, half angerlie, replyed that he wold not mistrust the Duke nor the Earle of Mar in a greater purpose nor that, and that hee could not vnderstand what hinder anie man could make in that erand. But these last spee<g ref="char:EOLhyphen"/>ches of M. Alexanders maid the King to be<g ref="char:EOLhyphen"/>gin to suspect what it could meane: wherevp<g ref="char:EOLhyphen"/>pon manie diuerse thoughts begouth to en<g ref="char:EOLhyphen"/>ter in the Kings minde. But that his Maiestie could neuer suspect anie harme to be inten<g ref="char:EOLhyphen"/>ded against his Hienes by that young gentle man, with whome his Maiestie had bene so well acquainted▪ as hee had not long before beene in sute to be one of the Gentlemen of his Chalmer: so as the farthest that the Kings suspition could reache to, was that it might bee that the Earle his brother had handled
+<pb facs="tcp:181018:13"/> him so hardlie, that the young gentlem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being of a hie spirit, had taken such disple<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sure, as he was become somwhat by himse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which his Maiestie coniectured aswell b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his raised and vncouth stairing and contin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all pensiuenesse all the time of the huntin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as likewise, by such strange sort of vnlykel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> discourses, as is alreadie mentioned. Whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon his Maiesty took occasion to make th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Duke of Lennox acquainted with the wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> purpose, enquyring of him verie earnestl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what he knew of that young gentlemans n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ture, beeing his brother in law, and if he ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> euer perceiued him to be subiect to any hig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> apprehension, his maiestie declaring his su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pition plainelie to the said Lord Duke, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hee thought him not well setled in his wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alwaies desiring my Lord Duke not to fai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to accompanie him in to that house, whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the alledged fellowe and treasure was. Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord Duke woundred much at that purpos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and thought it verie vnliklie: yet he affirme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that hee could neuer perceaue any such ap<g ref="char:EOLunhyphen"/>pearance in that gentlemans inclinatio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:181018:13"/> But Maister Alexander perceyuing his Ma<g ref="char:EOLhyphen"/>iesties priuie conference with the Duke, &amp; suspecting the purpose, as it appeared, came to the King, requesting his Maiesty verie ear<g ref="char:EOLhyphen"/>nestlie that he shoulde make none living ac<g ref="char:EOLhyphen"/>quainted with that purpose, nor suffer none to go with his Maiesty where he should con<g ref="char:EOLhyphen"/>uoy him, but himselfe onlie, vntill his Maie<g ref="char:EOLhyphen"/>stie had once seene the fellow and the Trea<g ref="char:EOLhyphen"/>sure: wherevnto his Maiestie halfe-laughing gaue answere, that he was no good teller of money, and behooued therefore to haue some to helpe him in that erand: his replye was that hee would suffer none to see it but his Maiesties selfe at the first, but afterward he might call in whom hee pleased. These speeches did so encrease his Maiesties suspi<g ref="char:EOLhyphen"/>tiō, that then he begouth directly to suspect <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome treasonable deuise. Yet manie suspiti<g ref="char:EOLhyphen"/>ons and thoughts ouerwhelming euery one <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n other in his minde, his Maiestie coulde <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esolue vpon no certaine thing, but raid fur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her on his iourney betwixt trust &amp; distrust, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeing ashamed to seeme to suspect in res<g ref="char:EOLhyphen"/>pect
+<pb facs="tcp:181018:14"/> of the cleannesse of his Maiesties owne conscience, except he had found some grea<g ref="char:EOLhyphen"/>ter ground. The said Maister Alexander still preasing the King to ride faster, although his owne horse was scarcely able to keepe com<g ref="char:EOLhyphen"/>panie with the King for wearinesse, hauing riden with him all the chase before. But a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the King was come two myles from Falk▪ land, the said Maister Alexander stayed a lit<g ref="char:EOLunhyphen"/>tle behind the King in the way, and poste<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away the other seruand Andrew Ruthven <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Earle his brother, aduertising him how farre the King was on his waye to come th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther. Then how soone soeuer the King com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> within a mile to the toun of Sanct-Iohnsto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he said to his Maiesty that he would poste<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before to aduertise the Earle his brother <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Maiesties comming: Who at his inco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ming to him was sitting at the middes of h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Denner, neuer seeming to take knowledg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Kings comming, whil his brother to it him, notwithstanding of his two seruan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aduertising him thereof of before. And i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mediatlie vppon his brothers reporte rys<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:181018:14"/> in haste from the borde, and warning al the seruants and friendes to accompany him to meet his maiesty, met him to the number of three or four score at the end of the Insh, his maiesties whole cōpanie &amp; train not excee<g ref="char:EOLhyphen"/>ding the nomber of sixteene persons, and al without any kind of armour, except swords, no not so much as Daggers or whingears. His Maiestie stayed an houre after his com<g ref="char:EOLhyphen"/>ming to the saide Earles lodging in Sanct-Iohnstoun, before his Denner come in. The longsomnesse of the prepairing of the same and badnesse of the cheare beeing excused vpon the sodainty of his maiesties comming vnlooked for there. During the which tyme his Maiesty enquyred of Maister Alexander when it was time to him to goe to that pri<g ref="char:EOLhyphen"/>uate house for that erand whereof he had in<g ref="char:EOLhyphen"/>formed him: whose answere was, that al was sure enough, but that there was no haste yet for an houre, whill his maiesty had dined at leisure. Praying his maiesty to leaue him, &amp; not to be seen to round with him before his brother, who hauing missed him that mor<g ref="char:EOLhyphen"/>ning
+<pb facs="tcp:181018:15"/> might therupon suspect what the mat<g ref="char:EOLhyphen"/>ter could meane. Therfore his maiesty ad<g ref="char:EOLhyphen"/>dressed him to the Erle, and disoursed with him vpon sundrie purposes, but culd get no direct answere of him, but halfe wordes, and imperfect sentences. His maiestie being set down to the denner, the said Erle stood very pensiue, and with a deiected countenance at the end of his Maiesties table, oft rounding ouer his shoulder whiles to one of his ser<g ref="char:EOLhyphen"/>uants, and whiles to another: and oftentims went out &amp; in to the chaber. Which forme of behauiour he likwise kept before his Ma<g ref="char:EOLunhyphen"/>iesties sitting down to dinner. But without any welcomming of his Maiestie, or anie o<g ref="char:EOLhyphen"/>ther hartlie forme of entertainement. The noblemen and gentlemen of the Court that was with his Maiestie standing about the ta<g ref="char:EOLhyphen"/>ble, and not desired to dyne, as vse is when his Maiesty is once set down, and his first ser<g ref="char:EOLhyphen"/>uice brought vp, vntill the King Maiesty had almost dyned. At the which time the Earle conuoyed them forth to their dinner, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sat not down with them him self, as the com<g ref="char:EOLunhyphen"/>mon
+<pb facs="tcp:181018:15"/> forme is▪ but come back &amp; stood silent at the end of the Kings table, as of before, which his Maiestie perceauing did begin to entertaine the Earle in an homelie manner, wondring that he had not remained to dine with his guests, and entertaine them there. In the meane time his Maiesty beeing ready to rise from the Table,, and his whole ser<g ref="char:EOLhyphen"/>uants beeing in the hall at their Dinner, the said Maister Alexander standing behind his Maiesties backe, pulled quietlie vppon him, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounding in his maiesties eare, that it was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime to goe, but that hee woulde haue faine <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ene quite of the Earle his brorher, wishing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he King to send him out to the hall to enter<g ref="char:EOLunhyphen"/>taine his guests: whereupon the King called <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or a drinke, and in a merry and homelie manner said to the Earle, that although the Earle had seene the fashion of entertaine<g ref="char:EOLhyphen"/>ment in other countries, yet he would teach <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im the Scottishe fashion, seeing hee was a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cottish man: and therefore since hee had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orgot to drink to his Maiestie, or to sit with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is guests and entertaine them, his Maiestie
+<pb facs="tcp:181018:16"/> would drink to him his owne welcome, desi<g ref="char:EOLunhyphen"/>ring him to take it foorth and drinke to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rest of the cōpany, &amp; in his Maiesties nam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to make them welcome. Whereupon as h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> went foorth his Maiestie did rise from th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> table, and desired M. Alexander to bring S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Thomas Erskine with him, who desiring th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> king to go forward with him, and promisin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he should make anie one or two follo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him that he pleased to cal for: desired his m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>iesty to command publikly that none shul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> follow him. And thus the King accompan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed onlie with the said Maister Alexande<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commes forth of the chāber, passes throug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the end of the hal where the noble men a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Maiesties seruants were sitting at the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dinner, vp a Turne-pyke, and through thr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or four high chambers, the said Maister Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>xander euer locking behind him euery do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as he past, and then with a more smyling c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tenance nor he had all the day before, eu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> saying he had him sure and safe enough ke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vntil at last, his Maiesty passing through th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or four sondrie houses, and all the dores lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ked
+<pb facs="tcp:181018:16"/> behind him, his Maiestie entered into a little studie, where his Maiestie did see stan<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng with a verie abased countenance, not a boūd-man, but a free man with a dagger at his girdle. But his Maiestie had no sooner entered into that little studie, and Maister A<g ref="char:EOLhyphen"/>lexander with him, but Maister Alexander lokked to the studie dore behind him, and at that instant changing his countenaoce, put<g ref="char:EOLhyphen"/>ting his hat on his head, &amp; drawing the dag<g ref="char:EOLhyphen"/>ger from that other mans girdle, held the point of it to the kings breast, avowing now that the king behoued to be in his will, and vsed as he list: swearing manie bloody othes, that if the king cried one word, or opened a window to look out, that dagger should pre<g ref="char:EOLhyphen"/>sently go to his hart. Affirming that he was sure that now the kings conscience was bur<g ref="char:EOLhyphen"/>dened for the murthering of his father. His Maiestie wondering at so suddaine an altera<g ref="char:EOLunhyphen"/>tion, and standing naked without any kynde of armour but his hunting horne, which hee had not gotten leisure to lay from him, be<g ref="char:EOLhyphen"/>twixt these two traitors which had conspir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:181018:17"/> his life: the said Maister Alexander standing as said is, with a drawne dagger in his hand, and his sword at his side: but the other trem<g ref="char:EOLhyphen"/>bling and quaiking, rather like ane condem<g ref="char:EOLhyphen"/>ned man, then an executioner of such an en<g ref="char:EOLhyphen"/>terpryse. His Maiesty begouth then to dila<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the saide Maister Alexander, howe hor<g ref="char:EOLhyphen"/>rible a thing it was to him to meddle with his Maiesties innocent blood, assuring him it would not be left vnreuenged, since God had giuen him children and good subiectes▪ and if there were no more, God would raise vp stocks and stones to punish so vyle a deed▪ Protesting before God that hee had no bur<g ref="char:EOLhyphen"/>then in his conscience for the execution o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his father: both in respect that at the time of his Fathers execution his Maiesty was but a minor of age, and guyded at that time by a faction which ouer-ruled both his Maiestie, and the rest of the country▪ as also that what<g ref="char:EOLhyphen"/>soeuer was done to his father, it was done by the ordinar course of Law and iustice. Ap<g ref="char:EOLhyphen"/>pealing the said Maister Alexander vpon his conscience, how wel he at al times since had
+<pb facs="tcp:181018:17"/> deserued at the hands of al his race, not only hauing restored them to all their landes and dignities, but also in nourishing and vpbrin<g ref="char:EOLhyphen"/>ging of two or three of his sisters, as it were in his own bosome, by a co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inual attēdāce vpon his M. dearest bedfellow in her priuy Chāber. Laying also before him the terrors of his conscience, especially that he made profession according to his education of the same religion which his Maiest. hes euer pro<g ref="char:EOLunhyphen"/>fessed: and namelie his Maiestie remembred him of that holie man, M. Robert Rollock, whose scholler he was, assuring him that one day the said M. Roberts soule would accuse him, that hee had neuer learned of him to practise such vnnaturall crueltie. His Maiesty promising to him in the worde of a Prince, that if he would spare his life, and suffer him to go out againe, he would neuer reueale to any fleshe liuing what was betwixt them at that time, nor neuer suffer him to incur anie harme or punishment for the same. But his Maiesties feare was, that hee could hope for no spairing at his hand: hauing such cruelty
+<pb facs="tcp:181018:18"/> in his lookes, &amp; standing so irreuerently co<g ref="char:EOLhyphen"/>uered with his Hat on, which forme of rigo<g ref="char:EOLhyphen"/>rous behauiour could prognosticat nothing to his Maiesty, but present extremitie. But a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Maiesties perswasiue language, hee ap<g ref="char:EOLhyphen"/>peared to bee somewhat amased, and disco<g ref="char:EOLhyphen"/>uering his head againe, swore and protested that his Maiesties lyfe should be safe, if hee would behaue himselfe quietly, without ma<g ref="char:EOLhyphen"/>king noyes or crying: &amp; that he would only bring in the Earle his brother, to speak with his Maiestie whereupon his Maiestie enqui<g ref="char:EOLhyphen"/>ring what the Erle would do with him, sinc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (if his Maiesties life was safe according to promise) they coulde gaine litle in keeping such a prisoner. His answere onlie was, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he could tell his Maiestie no more▪ but tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his lyfe would be safe, in cace hee behaue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him self quietlie, the rest the Earle his bro<g ref="char:EOLunhyphen"/>ther whome he was going for, would tel hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maiestie at his comming. And with that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he was going forth for his brother, as he a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>med, he turned him about to the other m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> saying these wordes vnto him, I make y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:181018:18"/> heere the Kings keeper vntill I come back a<g ref="char:EOLhyphen"/>gaine, and look that ye keep him vppon your owne perill: and therewithal sayes to his ma<g ref="char:EOLunhyphen"/>iestie, ye must content your selfe to haue this man nowe your keeper vntill my back-com<g ref="char:EOLhyphen"/>ming. And with these words he passes forth lokking the dore behinde him, and leauing his Maiestie with that man he fand there be<g ref="char:EOLhyphen"/>fore him. At whome his Maiestie then en<g ref="char:EOLhyphen"/>quired, if he was appointed to be the murthe<g ref="char:EOLunhyphen"/>rer of him at that time, and how far he was v<g ref="char:EOLhyphen"/>pon the counsell of that conspiracie, whose answer with a trembling &amp; astonished voice and behauiour, was, that as the Lord should judge him hee was neuer made acquainted with that purpose, but that he was put in ther perforce, and the dore lokked behinde him, a little space before his Maiesties comming as indeede all the time of the said Maister A<g ref="char:EOLhyphen"/>lexanders menassing his Maiestie he was e<g ref="char:EOLhyphen"/>uer tremblinglie requesting him for Gods sake, and with manie other attestations, not to meddle with his Maiestie, or to do him a<g ref="char:EOLhyphen"/>nie harme. But because Maister Alexander
+<pb facs="tcp:181018:19"/> had before his forth going made the king to sweare that he should not cry nor open anie of the windoes, his Maiesty commanded the said fellow to open the windo with his hand which he readelie did so that although hee was put in there to vse violence ouer the king, yet God so turned his hart at that time, as he become a slaue to his prisoner. While his Maiestie was in this dangerous esta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e &amp; none of his owne seruants nor traine know<g ref="char:EOLhyphen"/>ing in what part of the worlde he was in as his Maiesties traine was arising in the Hall from their Dinner, the Earle of Gowry be<g ref="char:EOLhyphen"/>ing present with them, one of the Earle of Gowries seruants commes hastelie in, assu<g ref="char:EOLhyphen"/>ring the Erle his master that his maiesty was horsed &amp; away through the Inshe, which the Erle reporting to the noblemen and the rest of his Maiesties train that was there, they all rushe out together at the gate in great haste: and some of his maiesties seruants inquyring at the Porter when his Maiestie went forth? the Porter affirmed that the king was not yet forth, whereupon the said Earle looked
+<pb facs="tcp:181018:19"/> verie angerly vpon him, and said he was but a liear: yet turning him to the Duke and to the Earle of Mar, said, hee would presentlie <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>get them sure word where his Maiestie was. And with that ran throgh the close, &amp; vp the staire. But his purpose indeede was to speak with his brother, as appeared verie well by the circumstance of the time, his brother ha<g ref="char:EOLunhyphen"/>uing at that same instant left the king in the little studie, and ran down the staire in great haste. Immediatly thereafter the Earle com<g ref="char:EOLhyphen"/>meth back running againe to the gate wher the noble men &amp; the rest were standing in a mase, assuring them that the king was out <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong since at the back gate, &amp; if they hasted not them all the sooner, they would not get him ouertaken, and with that cried for his horse, whereupon they rushe altogether out at the gate, and makes towardes the Inshe, crying all for their horses: Passing all (as it was the prouidence of God) vnder one of the windoes of that studie, wherein his Maiestie was. To whom Maister Alexander verie spe<g ref="char:EOLhyphen"/>delie returned, and at his incomming to his
+<pb facs="tcp:181018:20"/> Maiestie, casting his hands abroade in a des<g ref="char:EOLunhyphen"/>perate manner, said, he coulde not mend it, his Maiestie behooued to die: and with that offered a garter to bind his Maiesties hand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with swearing he behooued to be boūd. Hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maiesty at that word of binding said, he was borne a free king▪ and should die a free king▪ Whereupon hee gripping his Maiestie by the wrest of the hand to haue bound him, hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maiestie releeued him selfe suddainlie of his grips: whereupon as he put his right hand to his sworde, his Maiestie with his right han<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> seazed vpon both his hand and his sword, &amp; with his left hand clasped him by the throa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like as he with his left hand clasped the king by the throat, with two or thre of his fingers in his Maiesties mouth to haue staied him fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> crying. In this forme of wrestling his Ma<g ref="char:EOLhyphen"/>iestie perforce drewe him to the windoe which hee had caused the other man befor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to open vnto him, and vnder the which was passing by at the same time the kings traine and the Earle of Gowrie with them, as sai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is and holding out the right side of his hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:181018:20"/> and right elbowe, cried that they were mur<g ref="char:EOLhyphen"/>thering him there in that treasonable form: whose voice being instantly hard &amp; known by the Duke of Lennox, the Earle of Mar &amp; the rest of his Maiesties traine there, but the saide Earle of Gowrie euer asking what it meant: and neuer seeming anie wayes to haue seene his Maiestie or heard his voice, they all rushed in at the gate together, the Duke and the Earle of Mar running about to come by that passage his Maiesty come in at But the Earle of Gowrie and his seruants made them for an other way vp a quyet turn<g ref="char:EOLhyphen"/>pike which was euer condemned before, &amp; was onclie then left open, as appeared for that purpose. And in this meane time his Maiestie with strugling and wrastling with the said Maister Alexander, had broght him out perforce out of that study, the dore wher of, for haste he had left open at his last incō<g ref="char:EOLhyphen"/>ming and his Maiestie hauing gotten with long strugling the said Maister Alexanders head vnder his arme, and him selfe on his knees, his Maiestie did driue him backe per<g ref="char:EOLhyphen"/>force
+<pb facs="tcp:181018:21"/> hard to the doore of the same Turne▪ pike, and as his Maiestie was throwing his sword out of his hand, thinking to haue stri<g ref="char:EOLhyphen"/>ken him therewith, and then to haue shott<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him over the stair, the other fellow standing behinde the kings backe, and doing nothing but trembling al the time, Sir Iohn Ramsay, not knowing what way first to enter, after he had heard the Kings cry, by chāce finds that turnepik dore open, &amp; following it vp to the head, enters in into the chamber, and findes his Maiestie and Maister Alexander strug<g ref="char:EOLhyphen"/>ling in that forme, as is before said: and after he had twise or thrise stricken Maister Alex<g ref="char:EOLhyphen"/>ander with his dagger, the other man with<g ref="char:EOLhyphen"/>drew himselfe, his Maiestie still keeping his grips, and holding him close to him: imme<g ref="char:EOLhyphen"/>diatlie thereafter hee tooke the said Maister Alexander by the shoulders, and shotte him downe the staire: who was no sooner shotte out at the dore, but he was met by Sir Tho<g ref="char:EOLhyphen"/>mas Erskine and Sir Hew Hereis, who there vpon the staire ended him: the said Sir Tho<g ref="char:EOLhyphen"/>mas Erskine beeing casten behind the Duk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:181018:21"/> and the Erle of Mar that ran about the other way, by the occasion of his medling with the said late Earle vppon the street, after the hearing of his Maiesties cry. For vppon the hearing thereof, he had clasped the Earle of Gowrie by the gorget, and casting him vn<g ref="char:EOLhyphen"/>der his feete, and wanting a Dagger to haue striken him with, the said Earles men redde the Earle their Maister out of his handes: whereby he was casten behinde the rest, as said is: and missing the companie, and hea<g ref="char:EOLhyphen"/>ring the said Sir Iohn Ramsayes voice vpon the Turn-pike head, ran vp to the said cham<g ref="char:EOLhyphen"/>ber, and cried vpon the said Sir Hew Hereis and another seruant to follow him: where, meeting with the said Maister Alexander in the Turne-pike, he ended him there, as said is: the said Maister Alexander onely crying for his last words, Allace I had not the wyte of it. But no sooner could the saids, Sir Tho<g ref="char:EOLhyphen"/>mas, Sir Hew, and another seruant win in to the chamber wher his Maiesty was, but that the said Earle of Gowrie before they could get the dore shutte, followed them in at the
+<pb facs="tcp:181018:22"/> back, hauing casten him directlie to come vp that priuie passage, as is before saide: who at his first entrie, hauing a drawne sworde in e<g ref="char:EOLhyphen"/>uerie hand, and a steil-bonet on his head, accompanied with seuen of his seruants, e<g ref="char:EOLhyphen"/>uerie one of them hauing in like manner a drawne sword, cried out with a great oath, that they shoulde all die as traitors. All the which time his Maiest▪ was still in the cham<g ref="char:EOLhyphen"/>ber, who seeing the Erle of Gowrie come in with his swordes in his hands, sought for M. Alexanders sword which had fallē from him at his out shutting at the dore, hauing no sort of weapon of his own, as said is: but then was shot backe by his owne seruants that were there, into the little studie, and the dore shut vppon him: who hauing put his Maiestie in safetie, re-encountred the said Earle and his seruants, his Maiesties seruants being onlie in nomber four: to wit, Sir Thomas Erskine, Sir Hew Hereis, Sir Iohn Ramesay, and one Wilsoun, a serunat of Iames Erskines, a bro<g ref="char:EOLhyphen"/>ther of the said Sir Thomas, the said Erle ha<g ref="char:EOLhyphen"/>uing seuen of his seruants with him: Yet it
+<pb facs="tcp:181018:22"/> pleased God after manie strokes on all hands to giue his Maiesties seruants the victorie, the saide <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arle of Gowrie beeing stricken dead with a stroke through the heart, which the said Sir Iohn Ramsay gaue him, without once crying vpon God, and the rest of his seruants dung ouer the stair with many hurts as in like manner the saide Sir Thomas Er<g ref="char:EOLhyphen"/>skine, Sir Hew Hereis, and Sir Iohn Ramsay, were all three hurt and wounded. But all the time of this fight, the Duke of Lennox, the Earle of Mar, and the rest of his Maiest train, were stryking with great hammers at the vt<g ref="char:EOLhyphen"/>ter dore, whereby his Maiestie past vp to the chamber with the said Maister Alexander, which also he had lokked in his bycomming with his Maiesty to the chamber, but by rea<g ref="char:EOLhyphen"/>son of the strength of the saide double dore, the whole wall being likewise of bordes, and yeelding with the strakes: it did byde them the space of half an houre and more, before they coulde get it broken and haue entresse. Who hauing met with his Maiestie, fand (beyond their expectation) his Maiestie deli<g ref="char:EOLhyphen"/>uered
+<pb facs="tcp:181018:23"/> from so imminent a perill, and the said late Earle the principall conspirator lying dead at his Maiesties feete. Immediatlie thereafter his Maiestie kneeling downe, on his knees, in the midst of his owne seruants, and they all kneeling round about him, his Maiesty out of his own mouth thanked God of that miraculous deliuerance and victory, assuring him selfe that God had preserued him from so dispaired a perrill for the perfi<g ref="char:EOLhyphen"/>ting of some greater worke behinde to his glorie, and for the procuring by him the wel of his people, that God had committed to his charge. After this the tumult of the toun hearing of the slaughter of the said Earle of Gowrie their Prouost, and not knowing the manner thereof, nor beeing on the counsell of his treasonable attempt, continued for the space of two or three houres there after, vntill his Maiestie by oft speaking out to thē at the windoes, and beakening to them with his owne hand, pacifying them, causing the Baylies and the rest of the honest men of the toun to bee brought into the chamber, to
+<pb facs="tcp:181018:23"/> whom hauing declared the whole forme of that strange accident, he cōmitted the house and bodies of the saide traitors, brethren, to their keeping, vntill his Maiesties further pleasure were knowne. His Maiestie hauing before his parting out of that toun, caused searche the saide Earle of Gowries pockets, in cace anie letters that might further the discouerie of that conspiracie, might bee found therein. But no thing was found in them, but a little close parchment bag, full of Magicall characters, and words of inchāt<g ref="char:EOLhyphen"/>ment, wherein it seemed that he had put his confidence, thinking himself neuer safe with out them, and therefore euer carried them about with him: beeing also obserued, that while they were vpon him, his wound wher<g ref="char:EOLhyphen"/>of he died, bled not, but incontinent after the taking of them away, the blood gushed out in great aboundance, to the great admi<g ref="char:EOLhyphen"/>ration of al the beholders. An infamy which hath followed and spotted the race of this house, for manie discents, as is notoriouslie knowne to the whole countrie. Thus the
+<pb facs="tcp:181018:24"/> night was far spent, being neir eight houres at euening before his Maiesty could for the great tumult that was in the toun, departe out of the same. But before his Maiestie had ridden four myles out of the same towardes Falkland, although the night was verie darke and rainie: the whole way was cled with all sorte of people▪ both on horse &amp; foote, mee<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing him with great ioy and acclamation. The frequencie and concurse of persons of all degrees to Falkland the rest of the weeke, and to Edinburgh the next, from al the quar<g ref="char:EOLunhyphen"/>ters of the coūtrie, the testimony of the sub<g ref="char:EOLhyphen"/>jects hearty affection and ioy for his Maiest. deliuery, expressed euerywher by ringing of bels, bonefires, shutting of gunnes of al sorts both by sea &amp; land, &amp;c. with all other things ensuing therupon, I haue of set purpose pre<g ref="char:EOLhyphen"/>termitted, as well knowne to all men, &amp; im<g ref="char:EOLhyphen"/>pertinent to this discourse: contenting my selfe with this plaine and simple narration: adding onlie for explanation and confirma<g ref="char:EOLhyphen"/>tion thereof, the depositions of certaine per<g ref="char:EOLhyphen"/>sons who vere either actors, and eie-witnes<g ref="char:EOLhyphen"/>ses,
+<pb facs="tcp:181018:24"/> or immediat hearers of those things that they declair and testifie: wherein if the Rea<g ref="char:EOLhyphen"/>der shall finde anie thing differing from this narration, either in substance or circum<g ref="char:EOLhyphen"/>stance, he may vnderstand the same to be vt<g ref="char:EOLhyphen"/>tered by the deponer in his own behoof, for obtaining of his Maiesties Princelie grace and favour.</p>
+            <div type="deposition">
+               <head>APVD FALKLAND 9. August. 1600. In presence of the Lord Chancellar, Lord <hi>Treasurer, Lord Secretare, Lord Comptroller Lord Advocate, the Lord Incheffray, and Sir George Home of Spot Knight.</hi>
+               </head>
+               <p>IAmes Weimis of Bogy of the age of xxvi. yeare or thereby, sworne and examined v<g ref="char:EOLhyphen"/>pon the forme and manner of behauiour of late Iohn Earle of Gowry, the time of his be<g ref="char:EOLhyphen"/>ing with him at Strabran, or if he had heard the said Earle make ony motion of the trea<g ref="char:EOLhyphen"/>son
+<pb facs="tcp:181018:25"/> intended against his Maiestie, Depones that hee neither heard nor sawe any appea<g ref="char:EOLhyphen"/>rance of anie such intention in the said Erle.</p>
+               <p>Demanded, if hee was in anie purpose with the said Earle anent anie matters of cu<g ref="char:EOLhyphen"/>riositie: Depones, that at their being in Stra<g ref="char:EOLhyphen"/>bran, some of their companie found an Ed<g ref="char:EOLhyphen"/>der, which being killed, &amp; knowledge ther<g ref="char:EOLhyphen"/>of comming to the Earle, the Earle saide to this Deponer, Bogy if the Edder had not beene slaine, yee should haue seene a good sport: for I should haue caused her stand still, and she should not haue preissed away, by pronouncing of an hebrew word, which in Scottish is called Holinesse, but the Hebrew word the Deponer remembers not of: and that the Earle saide hee had put the same in practise of before. And this Deponer enquy<g ref="char:EOLhyphen"/>ring at the Earle where hee did get the He<g ref="char:EOLhyphen"/>brew word: the Earle answered, in a Cabba<g ref="char:EOLhyphen"/>list of the Iewes, and that it was by Traditi<g ref="char:EOLhyphen"/>on: and the Deponer inquiring what a Cab<g ref="char:EOLhyphen"/>balist meaned? the Earle answered, it was some words which the Iewes had by Tradi<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:181018:25"/> which wordes were spoken by God to Adam in Paradice, and therefore were of greater efficacie and force, nor anie wordes which were excogitate since by Prophetes and Apostles. The Deponer inquyring if there was no more requisite but the worde? The Erle answered, that a firme faith in God was requisite and necessar: and that this was▪ no matter of meruel amongst Schollers, but that all these things were naturall. And that the Earle shew to this Deponer that hee had spoken with a man in Italie, and first hearing by reporte that he was a Nigromancer, and therafter being informed that he was a verie learned man and a deep Theologue, he ent<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>red in further dealing with him anent the c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>riosities of nature.</p>
+               <p>Depones further that the said Erle repor<g ref="char:EOLhyphen"/>ted to him that he beeing at the Musick, h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e fel in companie with another man, who stai<g ref="char:EOLhyphen"/>ring in the Earles face, spak to the rest of the companie things of him, which he could ne<g ref="char:EOLhyphen"/>uer attaine vnto, nor be worthie of: &amp; there<g ref="char:EOLhyphen"/>fore that the Earle reproached him, and de<g ref="char:EOLhyphen"/>sired
+<pb facs="tcp:181018:26"/> him to forbeare these speaches. And that he met again with the said man in alike company, who did begin with the same lan<g ref="char:EOLhyphen"/>guage which he had spokē before: &amp; that the Earle said to him, my friend, in cace yee wil not hold your peace frō speaking lies of mee I will make you hold your peace by speaking sooth of you: and said vnto him within such a space he should be hanged for such a crime: and so it came to passe. This Deponer inqui<g ref="char:EOLhyphen"/>ring of the Earle who told him that, he an<g ref="char:EOLhyphen"/>swered merely, that he spake it beguesse &amp; it fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out so. And that the Erle said further, that it was nothing to make an herbe flesh which would dissolue in flies: and that likewise it was possible that the seed of man &amp; woman might bee brought to perfection otherwise then by the matrix of the woman: and that this Deponer counselled the Earle to bewar with whom he did communicate such spee<g ref="char:EOLhyphen"/>ches: who answered, that hee woulde speake them to none, but to great schollers, &amp; that hee would not haue spoken them to this de<g ref="char:EOLhyphen"/>poner, if he had not knowne him to bee a fa<g ref="char:EOLhyphen"/>uourer
+<pb facs="tcp:181018:26"/> of him, and a friend of his house, and would not reueale the same again, seeing he knew they would be euill inter<g ref="char:EOLhyphen"/>preted amongst the com<g ref="char:EOLhyphen"/>mon sorte.</p>
+               <closer>
+                  <signed>Sic subscribitur, I Weimys of Degie.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>
+                  <hi>Apud Falkland 20. August.</hi> 1600. IN PRESENCE OF THE Lords Chancellar, Treasurer, Advocate: Sir George Home of Spot, Sir Robert <hi>Meluill, and, Sir Iames Meluill Knichts.</hi>
+               </head>
+               <p>MAister William Rynd sworne and exa<g ref="char:EOLhyphen"/>mined, and demanded where hee firste did see the Charecters which were found v<g ref="char:EOLhyphen"/>pon my Lord: Depones, that hee hauing re<g ref="char:EOLhyphen"/>mained a space in Venice, at his returning to Padua, did finde in my Lords pocket the Cha<g ref="char:EOLunhyphen"/>racters which were found vppon him at his death: and the deponer inquiring of my lord
+<pb facs="tcp:181018:27"/> where he had gotten them, my Lord answe<g ref="char:EOLunhyphen"/>red that by chance he had copied them him<g ref="char:EOLunhyphen"/>selfe: and that the deponer knowes that the Characters in Latine are my Lords owne hand write, but he knowes not if the hebrew Characters were written by my Lord. De<g ref="char:EOLhyphen"/>pones further that when my Lord woulde change his clothes, the Deponer would take the Characters out of my Lords pocket, and would say to my Lord, wherfore serues these? and my Lord would answere, can yee not let them be, they doe you no euill: and further the deponer declares, that sometimes my Lord would forget them vntill hee were out of his chamber, and would turn back as hee were in an anger, vntil he had found them, &amp; put them in his owne pocket: Depones fur<g ref="char:EOLhyphen"/>ther that hee was sundrie times purposed to haue brunt the Characters, were not he fea<g ref="char:EOLhyphen"/>red my Lords wraith and anger, seing when the Deponer would purposelie leaue them sometimes out of my Lords pocket, my Lord would bee in such an anger with the Depo<g ref="char:EOLhyphen"/>ner, that for a certaine space he woulde not
+<pb facs="tcp:181018:27"/> speak with him, nor could finde his good coū<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enance: and that to this deponers opinion, my Lord woulde neuer bee content to want the characters off him selfe, frō the first time that the deponer did see them in Padua, to the houre of my Lords death.</p>
+               <p>Being demanded for what cause my Lord kept the Characters so well? Depones, that to his opinion it was for no good, because he heard that in those parts where my Lord was, they would giue sundrie folks breeues.</p>
+               <p>Depones further, that M. Patrik Galloway did let this Deponer see the Characters, since he came to this toun of Falkland, and that he knowes them to be the very same cha<g ref="char:EOLunhyphen"/>racters which my Lord had.</p>
+               <p>Depones also, that vppon Monday the 4. of August, the Maister, Andrew Hender<g ref="char:EOLhyphen"/>soun, &amp; the Deponer remained in my Lords chamber vntil about ten houres at euen, and after a long conference betwixt the Lord &amp; the Maister, my Lord called for Andrew Hē<g ref="char:EOLhyphen"/>dersoun, and after some speeches with him, dismissed them.
+<pb facs="tcp:181018:28"/> Denies that he knew of the Maisters or A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>drew Hendersounsryding to Falkland, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after Andrewes returne from Falkland vpo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the morrow, howbeit he did see him boote<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet he knew not that he was come from Fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>land.</p>
+               <p>Depones that my lord being at dinner wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Maister come in, the deponer heard m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord say to the Maister, Is the King in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Inshe? and with that he did rise, &amp; said let vs goe. But the deponer knowes not what the Maister said to my Lord.</p>
+               <p>Beeing demanded if he did see anie kinde of armour or weapons, except swords, in the Kings companie, depones that he did see none.</p>
+               <p>It being demanded how the deponer was satisfied with my Lords answere made to him concerning the Kings comming to Sanct-Iohnstoun, saying that hee knewe not how he come: declares that he thought that my Lord had dissembled with him, and that he behooued to haue knowne it, seeing his brother was come with his Maiestie befo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:181018:28"/> that he demanded of him: and that hee had confered with my Lord priuilie.</p>
+               <p>Depones that he knew no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that the Mai<g ref="char:EOLhyphen"/>ster was ridden to Falkland, vntill after his Maiesties comming to Sanct-Iohnston, that Andrew Kuthwen tolde him, because the de<g ref="char:EOLhyphen"/>poner inquired at Andrew Ruthwen where the Maister and he had bene, &amp; that Andrew answered they had bene in Falkland: &amp; that the Maister hauing spoken with the King, his Maiestie come forward with them, and that this conference betwixt the Deponer and Andrew Ruthwen was in the yarde when my Lord was there. And Andrew Ruthwen shew to the Deponer that Andrew Hender<g ref="char:EOLhyphen"/>soun was directed by the Maister to shew my Lord that his Maiestie was comming.</p>
+               <p>Depones also that in his opinion, the Maister could not haue drawen the King to my Lords house, without my Lords know<g ref="char:EOLhyphen"/>ledge: and that when hee heard the tumult, he was resolued in his heart the Maister had done his Maiestie wrong, and that no trewe christian can think otherwise, but that it was
+<pb facs="tcp:181018:29"/> an high treason, attempted against his Hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nesse by the Maister and the Lord:</p>
+               <p>Depones also that to his opinion the king<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whole companie was within a dozen of men▪</p>
+               <closer>
+                  <signed>Sic subscribitur. M. W. Rynd.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>22. <hi>August.</hi> 1600.</head>
+               <p>Maister William Rynd sworne and reex<g ref="char:EOLunhyphen"/>amined, if euer he heard the Erle of Gowr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vtter his opinion a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent the dutie of an wis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man in the execution of an high enterprise▪ Declares that being out of the countrie, hee hes diuerse times heard him reason in that matter: and that he was euer of that opinion that he was not an wise man, that hauing in<g ref="char:EOLunhyphen"/>tended the execution of an high and dange<g ref="char:EOLunhyphen"/>rous purpose, communicate the same to any but to him selfe, because keeping it to him selfe, it coulde not bee discouered nor disap<g ref="char:EOLhyphen"/>pointed, which the deponer declared before vn-required to the Cōptroller, and M. Wil<g ref="char:EOLunhyphen"/>liam Cowper Minister at Perth: &amp; hearing the depositions of Andrew Hendersoun red<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; being enquired vpon his conscience wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:181018:29"/> hee thought of the fact that was committed against his Maiestie, declares that vppon his saluation that he beleeues Andrew Hender<g ref="char:EOLhyphen"/>soun hes declared the circumstances trulie.</p>
+               <closer>
+                  <signed>Sic subscribitur, M. W. Rynd.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>
+                  <hi>Apud Falkland 20. August.</hi> 1600. IN PRESENCE OF THE LORDS Chancellar, Treasurer, Aduocatt, <hi>Comp<g ref="char:EOLhyphen"/>troller: and Sir Grorge Home of Spot, Sir Iames Melvill Knights.</hi>
+               </head>
+               <p>ANdrew Hendersoun sworne and exami<g ref="char:EOLhyphen"/>ned, and demanded what purpose was betwixt him and the Earle of Gowrie▪ vpon Monday at night the fourth of this instant in the said Earles chamber? Depones that the Earle inquired of him what he would be doing vpon the morrow, and he answering that hee was to ryde to Ruthwen: the Earle said to him, you must ryde to Falkland with Maister Alexander my brother, and when
+<pb facs="tcp:181018:30"/> he directs you back, see that ye returne with all diligence, if he send a letter or anie othe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aduertisement with you.</p>
+               <p>Depones, that the Maister directed him to send for Andrew Ruthwen to be in readi<g ref="char:EOLhyphen"/>nesse to ryde with them the morrow at four houres in the morning.</p>
+               <p>Declares, that they comming to Falkland about seuen hours in the morning, the Mai<g ref="char:EOLhyphen"/>ster stayed in a ludging beside the Palice▪ &amp; directed the deponer to see what the King was doing, and the deponer finding his Ma<g ref="char:EOLhyphen"/>iestie in the close cōming forth, he past back &amp; told the Maister, who immediatly addres<g ref="char:EOLhyphen"/>sed him self to his Hienes, &amp; spake with his Maiestie a good space beneth the Equerie: &amp; after his Maiesty was on horse back, the Mai<g ref="char:EOLhyphen"/>ster commes to the Deponer, &amp; commands him to fetche their horses, and bade him haste him as he loued my Lords honour and his, and aduertise my Lord that his Maiestie and he would be there incontinent, and that his Maiesty would be quiet, and the deponer inquyring at the Maister if he should go pre<g ref="char:EOLunhyphen"/>sentlie,
+<pb facs="tcp:181018:30"/> hee did bid him leap on and follow him, and not to go away vntill he spak with the King: and the Maister hauing spoken with the King, at a breach of the Park wal he turned backe &amp; bade the deponer ride away. &amp; the deponer making his return in al possi<g ref="char:EOLhyphen"/>ble haste to Sanct-Iohnstoun, hee fand my Lord in his chamber about ten houres, who left the companie he was speaking with, and come to the deponer, &amp; asked, hath my bro<g ref="char:EOLhyphen"/>ther sent a letter with you? the deponer an<g ref="char:EOLhyphen"/>swered, no: but they will be all heere incon<g ref="char:EOLhyphen"/>tinent, and bade the deponer desire my Lord to cause prepare the dinner. Immediatlie thereafter my Lord took the deponer to the Cabinet, and asked at him, how his Maiesty took with the Maister his brother? the de<g ref="char:EOLhyphen"/>poner answered, verie wel, and that his Ma<g ref="char:EOLhyphen"/>iestie laide his hand ouer the Maisters shoul<g ref="char:EOLhyphen"/>der. Thereafter my Lord enquired if there was manie at the hunting with the King? the deponer answered, that he took no heed, but they who were accustomed to ride with his Majestie, and some Englishmen were there:
+<pb facs="tcp:181018:31"/> and that my Lord inquired what special mē were with his Majestie, and that the depo<g ref="char:EOLhyphen"/>ner answered hee did see none but my Lord Duke. And within an hour thereafter, vvhen the deponer came in from his owne house, the Earle bade him put on his Secreit and Plait-sleeues, for he had an hey-land man to take, which the Deponer did incontinent: and about tvvelue houres, vvhen the depo<g ref="char:EOLhyphen"/>ner was going out to his owne house to his dinner, the steward came to him and shewe him that George Craigingelt was not well, and was lyne downe, desired him to tary and take vp my Lords dinner: and about half an houre after twelue my Lord commanded him to take vp the first seruice. And when the deponer was commanded to take vp the second seruice, the Maister and Wil<g ref="char:EOLhyphen"/>liam Blair came in to the Hall to my Lord.</p>
+               <p>The deponer remembreth himselfe, that Andrew Ruthwen came before the Mai<g ref="char:EOLhyphen"/>ster a certaine space, and spake with my Lord quyetlie at the table, but heard not the par<g ref="char:EOLhyphen"/>ticular purpose that was amongst them. And so soone as the Maister came to the Hall, my
+<pb facs="tcp:181018:31"/> Lord &amp; the whole companie raise from the table: and the deponer hearing the noyes of their foorth-going, supponed they were going to Makebreakes for Makilduy: and the deponer sent his boy for his gantlet and steil-bonnet: and seeing my Lord passe to the Inshe and not to the shoe gate, the de<g ref="char:EOLhyphen"/>poner did cast the gantlet in the Pantrie, and caused his boy take his steil-bonnet to his owne house: and hee followed my Lord to the Inshe, and returning back with his Ma<g ref="char:EOLhyphen"/>iestie to the lodging, beeing directed to get drinke. And the Maister came to the depo<g ref="char:EOLhyphen"/>ner, and did bid him cause Maister William Rynd send him vp the key of the Gallerie chamber, who past vp and deliuered the key to the Maister: and immediatlie my Lorde followed vp, and did speak with the Maister, and came downe againe, and directed Mai<g ref="char:EOLhyphen"/>ster Thomas Cranstoun to the deponer to come to his Lordship in his Maiesties cham<g ref="char:EOLhyphen"/>ber. And that my Lord directed him to goe vp to the Gallerie to his brother: and imme<g ref="char:EOLhyphen"/>diatlie my Lord followed vp, and comman<g ref="char:EOLhyphen"/>ded the deponer to byde there with his bro<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:181018:32"/> and to doe anie thing that hee bade him. The Deponer enquired at the Maister what haue ye to do Sir? the Maister answe<g ref="char:EOLhyphen"/>red, ye must goe in heere, and tarrie vntill I come back, for I will take the key with mee. So he lokked the deponer in the round with<g ref="char:EOLhyphen"/>in the chamber, and took the key with him. Shortlie there-after, the Maister returned, &amp; the Kings Maiestie with him to the saide ca<g ref="char:EOLhyphen"/>binet in the rounde: and the Maister ope<g ref="char:EOLhyphen"/>ning the dore, entered with the King into the said rounde: and at his verie entrie coue<g ref="char:EOLhyphen"/>ring his head, pulled out the deponers Dag<g ref="char:EOLhyphen"/>ger, and held the same to his Maiesties breast, saying: Remember you of my fathers murther? yee shall now die for it: and min<g ref="char:EOLhyphen"/>ting to his Hienes heart with the dagger, the deponer threw the same out of the Maisters hand: and swore, that, as God shall iudge his soule, if the Maister had retained the dag<g ref="char:EOLhyphen"/>ger in his hand the space that a man may go six steppes, he would haue stricken the King to the hilts with it: but wanting the Dag<g ref="char:EOLhyphen"/>ger, and the Kings Maiestie giuing him a
+<pb facs="tcp:181018:32"/> gentle answere, hee said to the Kings Maie<g ref="char:EOLhyphen"/>stie with abhominable oathes: that if hee would keep silence no thing should aile him if hee woulde make such promise to his bro<g ref="char:EOLhyphen"/>ther, as they would craue of him &amp; the kings maiesty inquiring what promise they would craue: he answered that hee would bring his brother. So he goes foorth, and lokkes the dore of the round vppon his Maiestie and the deponer: hauing first taken the King sworne that hee should not cry nor open the windoe.</p>
+               <p>And his Maiestie inquiring at the depo<g ref="char:EOLhyphen"/>ner what he was? he answered a seruant of my Lords. And his Maiesty asking at the de<g ref="char:EOLhyphen"/>poner, if my Lord woulde doe anie euill to him? the deponer answered, as God shall iudge my soule, I shall die first. And the de<g ref="char:EOLhyphen"/>poner preising to haue opened the windoe, the Maister entreed, and said: Sir there is no remedie By God you must die: and hauing a loose garter in his hand, preissed to haue bound his Maiesties hands, and the deponer pulled the garter out of Maister Alexanders his
+<pb facs="tcp:181018:33"/> hand. And then the Maister did put one of his handes in his Maiesties mouth, to haue staied him to speak, and held his other arme about his Hienes neck: and that this depo<g ref="char:EOLhyphen"/>ner pulled the Maisters hand from his Hie<g ref="char:EOLhyphen"/>nesse mouth, and opened the windoe: and then his Maiestie cried out thereat, whereu<g ref="char:EOLhyphen"/>pon his Hienes seruant came in at the gate, and this deponer did run and open the dore of the Turne-pike heade, where at Iohn Ramsay entered: and the deponer stoode in the Chamber vntil he did see Iohn Ramsay giue the Maister ane stroke: and there-after priuilie conuoyed himself downe the Turn<g ref="char:EOLhyphen"/>pike to his owne house: and the deponers wife inquiring of him what the fraie mea<g ref="char:EOLhyphen"/>ned? the deponer answered, that the Kings Maiestie would haue beene twise stikked were not he relee<g ref="char:EOLhyphen"/>ued him.</p>
+               <closer>
+                  <signed>Sic subscribitur, Andrevv Hendersoun vvith my hand.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <pb facs="tcp:181018:33"/>
+               <p>Further, the saide Andrew Hendersoun Depones, that after his returning from Falk<g ref="char:EOLhyphen"/>land vpon the fifth of this instant, Maister Iohn Montcrief en quyring of him where he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad beene? He answered, that he had bene <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eyond the bridge of Erne: and sayes that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee gaue that answere to Maister Iohn, be<g ref="char:EOLhyphen"/>cause my Lord commanded him to let no man knowe that he was to ride to Falkland: and that my Lords direction to him, was, to come back with his brother Maister A<g ref="char:EOLhyphen"/>lexanders answere, and to leaue Andrew Ruthwen to await vpon the Mai<g ref="char:EOLhyphen"/>ster.</p>
+               <closer>
+                  <signed>Sic subscribitur, Andrevv Hendersoun vvith my hand.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <p>Further, the saide Andrew Hendersoun Depones, that when hee had taken the Mai<g ref="char:EOLhyphen"/>sters hand out of the Kings Maiest. mouth, &amp;
+<pb facs="tcp:181018:34"/> was opening the windoe, Maister Alexan<g ref="char:EOLunhyphen"/>der said to him, Will thou not helpe? W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> betyde thee, thow will make vs all die.</p>
+               <closer>
+                  <signed>Sic subscribitur, Andrevv Henderso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vvith my <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>PRINTED AT EDINBVRGH <hi>BY ROBERT CHARTERIS.</hi> And are to be solde in his shop <hi>in the North side of the street, fornent the salte Trone.</hi>
+            </p>
+            <pb facs="tcp:181018:34"/>
+            <pb facs="tcp:181018:35"/>
+            <pb facs="tcp:181018:35"/>
+            <pb facs="tcp:181018:36"/>
+            <pb facs="tcp:181018:36"/>
+            <pb facs="tcp:181018:37"/>
+            <pb facs="tcp:181018:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
